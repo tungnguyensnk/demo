@@ -1,5 +1,6 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!doctype html>
-<html lang="en" xmlns="http://www.w3.org/1999/html">
+<html lang="vi" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -86,7 +87,7 @@
             <li>Phụ Kiện</li>
         </ul>
     </div>
-    <div class="copyright" >&copy; Bản quyền thuộc về うれしい。</div>
+    <div class="copyright" style="font-family: Arial,serif">&copy; Bản quyền thuộc về うれしい。</div>
 </div>
 </body>
 </html>
