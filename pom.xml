@@ -36,12 +36,6 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>com.github.jsimone</groupId>
-            <artifactId>webapp-runner</artifactId>
-            <version>9.0.27.1</version>
-            <scope>provided</scope>
-        </dependency>
     </dependencies>
 
     <build>
@@ -63,7 +57,7 @@
                                 <artifactItem>
                                     <groupId>com.heroku</groupId>
                                     <artifactId>webapp-runner</artifactId>
-                                    <version>9.0.27.1</version>
+                                    <version>9.0.54.0</version>
                                     <destFileName>webapp-runner.jar</destFileName>
                                 </artifactItem>
                             </artifactItems>
